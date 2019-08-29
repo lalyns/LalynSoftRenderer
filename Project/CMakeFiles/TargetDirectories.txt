@@ -1,0 +1,3 @@
+C:/Users/Now2_210_15/Documents/SoftRenderer/Project/CMakeFiles/ALL_BUILD.dir
+C:/Users/Now2_210_15/Documents/SoftRenderer/Project/Source/Player/CMakeFiles/SoftRendererPlayer.dir
+C:/Users/Now2_210_15/Documents/SoftRenderer/Project/Source/Player/CMakeFiles/ALL_BUILD.dir
